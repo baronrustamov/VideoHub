@@ -1,0 +1,7 @@
+.py[oc]
+__pycache__/
+*env
+logs
+*.ini
+*.sock
+venv
